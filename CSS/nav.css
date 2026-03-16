@@ -19,6 +19,7 @@ body {
     background-color: black;
     color: white;
     overflow-x: hidden;
+    max-width: 100%;
 }
 
 
